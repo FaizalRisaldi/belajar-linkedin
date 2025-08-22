@@ -29,7 +29,7 @@ function App() {
         <div className="container">
           <div className="hero-content">
             <div className="hero-text">
-              <h1>Belajar LinkedIn: Optimalkan Profil & Karier Anda.</h1>
+              <h1>Mastering LinkedIn for Career Growth.</h1>
               <p>
                 Pelajari cara membangun profil LinkedIn profesional, memperluas jaringan, 
                 dan meningkatkan peluang karier melalui strategi yang terbukti efektif.
